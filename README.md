@@ -26,4 +26,4 @@
 
 
 <br><p>🌱 I’m currently improving my skills in TypeScript, NodeJS, React, HTML, CSS, & BOOTSTRAP</p> 
-<p>👨‍💻  My Stack: TypeScript, NodeJS, React, HTML, CSS, & BOOTSTRAP</p> </br>
+<p>👨‍💻  My Stack: PHP, Laravel, React, HTML, CSS, & BOOTSTRAP</p> </br>
