@@ -25,5 +25,5 @@
 <b>I'm a web developer student, currently focused on Full-Stack development. :computer:<b> <br></br>
 
 
-<br><p>🌱 I’m currently improving my skills in TypeScript, NodeJS, React, HTML, CSS, & BOOTSTRAP</p> 
-<p>👨‍💻  My Stack: PHP, Laravel, React, HTML, CSS, & BOOTSTRAP</p> </br>
+<br><p>🌱 I’m currently improving my skills in PHP, Laravel, Javascript, React, HTML, CSS, & BOOTSTRAP</p> 
+<p>👨‍💻  My Stack: PHP, Laravel, React, Javascript, HTML, CSS, & BOOTSTRAP</p> </br>
