@@ -4,8 +4,8 @@
 
 <p align="center"></p>
 
-<p align="center">
-  <a style="display: block:" href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center"  style="display: block:">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardops0&layout=compact"
