@@ -18,17 +18,14 @@
 </p>
 </div>
 
-
 <div align="center">
 
 <b>Sou um estudante de desenvolvimento web, atualmente focado no desenvolvimento Full-Stack. :computer:<b> <br></br>
-
 
 <br><p>🌱 Atualmente, estou a melhorar as minhas habilidades em PHP, Laravel, Javascript, React, HTML, CSS, TS & BOOTSTRAP</p> 
 <p>👨‍💻  Linguagens que utilizo no meu trabalho atualmente: PHP, Laravel, Javascript, HTML, CSS, Python & BOOTSTRAP</p> </br>
 
 </div>
-
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Eduardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
