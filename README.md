@@ -42,7 +42,7 @@
   
   ##
  
-<div> 
+<div align="center"> 
   <a href="https://www.instagram.com/eueduardoprogramador" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="discord.com/channels/@gowotinha.devhttps://discord.com/channels/1168701980093468802/1168701980093468804" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:eduardops2040@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
