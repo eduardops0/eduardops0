@@ -4,7 +4,8 @@
 
 <p align="center"></p>
 
-<p align="center"  style="display: flex; flex-direction: column;">
+<div style="display: block"><br>
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
@@ -19,6 +20,7 @@
     />
   </a>
 </p>
+</div>
 
 
 
