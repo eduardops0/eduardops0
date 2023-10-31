@@ -4,7 +4,7 @@
 
 <p align="center"></p>
 
-<p align="center"  style="display: block:">
+<p align="center"  style="display: flex; flex-direction: column;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
