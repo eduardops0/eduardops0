@@ -20,11 +20,12 @@
 
 <div align="center">
 
-<b>Sou um estudante de desenvolvimento web, atualmente focado no desenvolvimento Full-Stack. :computer:<b> <br></br>
+Full-Stack Developer 🇧🇷 | Laravel, React, TypeScript, Tailwind | Building fast, modern and scalable web solutions 🚀
 
-<br><p>🌱 Atualmente, estou a melhorar as minhas habilidades em PHP, Laravel, Javascript, React, HTML, CSS, TS & BOOTSTRAP</p> 
-<p>👨‍💻  Linguagens que utilizo no meu trabalho atualmente: PHP, Laravel, Javascript, HTML, CSS, Python & BOOTSTRAP</p> </br>
+Full-Stack Developer specialized in Laravel and React, focused on performance, clean architecture, and user experience.
+Experienced in end-to-end development, from back-end to front-end, integrating modern technologies to deliver stable and responsive applications.
 
+Core Stack: PHP, Laravel, React, TypeScript, JavaScript, HTML, CSS, Tailwind, Bootstrap, Python.
 </div>
 
 <div align="center" style="display: inline_block"><br>
