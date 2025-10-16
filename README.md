@@ -1,6 +1,3 @@
-### Confira o Status do meu GitHub <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-
----
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
